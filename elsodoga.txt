@@ -1,0 +1,6 @@
+Mire jó a virtuális memória?
+    Ha elfogyna a RAM memória a számítógépünkőn, akkor a virtuális memóriához nyúl hozzá.
+    Így lassabb teljesítménnyel/sebességgel fér hozzá.
+Mi az eszközkezelő és mire használható?
+    Az eszközkezelő arra jó, hogy a számitógép adatait/beállításait módosítjuk vele, többek között időt, memóriamennyiséget, RAM mennyiségét, stb.
+    A rendszer beállításait is beállíthatjuk^ (szerintem). Ha  a tárhelyük elfogyna vagy a RAM, akkor eltávolíthatjuk amik nem kellenek vagy a RAM felesleges adatait^.
